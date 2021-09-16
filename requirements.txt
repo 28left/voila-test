@@ -1,0 +1,13 @@
+jupyter-book
+matplotlib
+numpy
+sympy
+pandas
+ipysheet
+ipywidgets
+jupyter_contrib_nbextensions
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
