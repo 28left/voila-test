@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True voila_test.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True vue_multchoice.ipynb

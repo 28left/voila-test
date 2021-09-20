@@ -11,3 +11,4 @@ ipympl
 ipyvolume
 scipy
 voila
+ipyvuetify
